@@ -1,0 +1,78 @@
+COR_1:10:double_distance(double,double,double,double):if (x1 < -90 || x1 > 90) { => if (x1 <= -90 || x1 > 90) {
+COR_2:10:double_distance(double,double,double,double):if (x1 < -90 || x1 > 90) { => if (x1 > -90 || x1 > 90) {
+COR_3:10:double_distance(double,double,double,double):if (x1 < -90 || x1 > 90) { => if (x1 >= -90 || x1 > 90) {
+COR_4:10:double_distance(double,double,double,double):if (x1 < -90 || x1 > 90) { => if (x1 == -90 || x1 > 90) {
+COR_5:10:double_distance(double,double,double,double):if (x1 < -90 || x1 > 90) { => if (x1 != -90 || x1 > 90) {
+COR_6:10:double_distance(double,double,double,double):if (x1 < -90 || x1 > 90) { => if (x1 < -90 && x1 > 90) {
+COR_7:10:double_distance(double,double,double,double):if (x1 < -90 || x1 > 90) { => if (x1 < -90 || x1 < 90) {
+COR_8:10:double_distance(double,double,double,double):if (x1 < -90 || x1 > 90) { => if (x1 < -90 || x1 <= 90) {
+COR_9:10:double_distance(double,double,double,double):if (x1 < -90 || x1 > 90) { => if (x1 < -90 || x1 >= 90) {
+COR_10:10:double_distance(double,double,double,double):if (x1 < -90 || x1 > 90) { => if (x1 < -90 || x1 == 90) {
+COR_11:10:double_distance(double,double,double,double):if (x1 < -90 || x1 > 90) { => if (x1 < -90 || x1 != 90) {
+COR_12:13:double_distance(double,double,double,double):else if (y1 < -180 || y1 > 180) { => else if (y1 <= -180 || y1 > 180) {
+COR_13:13:double_distance(double,double,double,double):else if (y1 < -180 || y1 > 180) { => else if (y1 > -180 || y1 > 180) {
+COR_14:13:double_distance(double,double,double,double):else if (y1 < -180 || y1 > 180) { => else if (y1 >= -180 || y1 > 180) {
+COR_15:13:double_distance(double,double,double,double):else if (y1 < -180 || y1 > 180) { => else if (y1 == -180 || y1 > 180) {
+COR_16:13:double_distance(double,double,double,double):else if (y1 < -180 || y1 > 180) { => else if (y1 != -180 || y1 > 180) {
+COR_17:13:double_distance(double,double,double,double):else if (y1 < -180 || y1 > 180) { => else if (y1 < -180 && y1 > 180) {
+COR_18:13:double_distance(double,double,double,double):else if (y1 < -180 || y1 > 180) { => else if (y1 < -180 || y1 < 180) {
+COR_19:13:double_distance(double,double,double,double):else if (y1 < -180 || y1 > 180) { => else if (y1 < -180 || y1 <= 180) {
+COR_20:13:double_distance(double,double,double,double):else if (y1 < -180 || y1 > 180) { => else if (y1 < -180 || y1 >= 180) {
+COR_21:13:double_distance(double,double,double,double):else if (y1 < -180 || y1 > 180) { => else if (y1 < -180 || y1 == 180) {
+COR_22:13:double_distance(double,double,double,double):else if (y1 < -180 || y1 > 180) { => else if (y1 < -180 || y1 != 180) {
+COR_23:16:double_distance(double,double,double,double):else if (x2 < -90 || x2 > 90) { => else if (x2 <= -90 || x2 > 90) {
+COR_24:16:double_distance(double,double,double,double):else if (x2 < -90 || x2 > 90) { => else if (x2 > -90 || x2 > 90) {
+COR_25:16:double_distance(double,double,double,double):else if (x2 < -90 || x2 > 90) { => else if (x2 >= -90 || x2 > 90) {
+COR_26:16:double_distance(double,double,double,double):else if (x2 < -90 || x2 > 90) { => else if (x2 == -90 || x2 > 90) {
+COR_27:16:double_distance(double,double,double,double):else if (x2 < -90 || x2 > 90) { => else if (x2 != -90 || x2 > 90) {
+COR_28:16:double_distance(double,double,double,double):else if (x2 < -90 || x2 > 90) { => else if (x2 < -90 && x2 > 90) {
+COR_29:16:double_distance(double,double,double,double):else if (x2 < -90 || x2 > 90) { => else if (x2 < -90 || x2 < 90) {
+COR_30:16:double_distance(double,double,double,double):else if (x2 < -90 || x2 > 90) { => else if (x2 < -90 || x2 <= 90) {
+COR_31:16:double_distance(double,double,double,double):else if (x2 < -90 || x2 > 90) { => else if (x2 < -90 || x2 >= 90) {
+COR_32:16:double_distance(double,double,double,double):else if (x2 < -90 || x2 > 90) { => else if (x2 < -90 || x2 == 90) {
+COR_33:16:double_distance(double,double,double,double):else if (x2 < -90 || x2 > 90) { => else if (x2 < -90 || x2 != 90) {
+COR_34:19:double_distance(double,double,double,double):else if (y2 < -180 || y2 > 180) { => else if (y2 <= -180 || y2 > 180) {
+COR_35:19:double_distance(double,double,double,double):else if (y2 < -180 || y2 > 180) { => else if (y2 > -180 || y2 > 180) {
+COR_36:19:double_distance(double,double,double,double):else if (y2 < -180 || y2 > 180) { => else if (y2 >= -180 || y2 > 180) {
+COR_37:19:double_distance(double,double,double,double):else if (y2 < -180 || y2 > 180) { => else if (y2 == -180 || y2 > 180) {
+COR_38:19:double_distance(double,double,double,double):else if (y2 < -180 || y2 > 180) { => else if (y2 != -180 || y2 > 180) {
+COR_39:19:double_distance(double,double,double,double):else if (y2 < -180 || y2 > 180) { => else if (y2 < -180 && y2 > 180) {
+COR_40:19:double_distance(double,double,double,double):else if (y2 < -180 || y2 > 180) { => else if (y2 < -180 || y2 < 180) {
+COR_41:19:double_distance(double,double,double,double):else if (y2 < -180 || y2 > 180) { => else if (y2 < -180 || y2 <= 180) {
+COR_42:19:double_distance(double,double,double,double):else if (y2 < -180 || y2 > 180) { => else if (y2 < -180 || y2 >= 180) {
+COR_43:19:double_distance(double,double,double,double):else if (y2 < -180 || y2 > 180) { => else if (y2 < -180 || y2 == 180) {
+COR_44:19:double_distance(double,double,double,double):else if (y2 < -180 || y2 > 180) { => else if (y2 < -180 || y2 != 180) {
+AORB_1:28:double_distance(double,double,double,double):double distance = 3986 * (Math.acos(Math.sin(degree_x1) * Math.sin(degree_x2) => double distance = 3986 + (Math.acos(Math.sin(degree_x1) * Math.sin(degree_x2)
+AORB_2:28:double_distance(double,double,double,double):double distance = 3986 * (Math.acos(Math.sin(degree_x1) * Math.sin(degree_x2) => double distance = 3986 - (Math.acos(Math.sin(degree_x1) * Math.sin(degree_x2)
+AORB_3:28:double_distance(double,double,double,double):double distance = 3986 * (Math.acos(Math.sin(degree_x1) * Math.sin(degree_x2) => double distance = 3986 / (Math.acos(Math.sin(degree_x1) * Math.sin(degree_x2)
+AORB_4:28:double_distance(double,double,double,double):double distance = 3986 * (Math.acos(Math.sin(degree_x1) * Math.sin(degree_x2) => double distance = 3986 % (Math.acos(Math.sin(degree_x1) * Math.sin(degree_x2)
+AORB_5:28:double_distance(double,double,double,double):double distance = 3986 * (Math.acos(Math.sin(degree_x1) * Math.sin(degree_x2) => double distance = 3986 * (Math.acos(Math.sin(degree_x1) + Math.sin(degree_x2)
+AORB_6:28:double_distance(double,double,double,double):double distance = 3986 * (Math.acos(Math.sin(degree_x1) * Math.sin(degree_x2) => double distance = 3986 * (Math.acos(Math.sin(degree_x1) - Math.sin(degree_x2)
+AORB_7:28:double_distance(double,double,double,double):double distance = 3986 * (Math.acos(Math.sin(degree_x1) * Math.sin(degree_x2) => double distance = 3986 * (Math.acos(Math.sin(degree_x1) / Math.sin(degree_x2)
+AORB_8:28:double_distance(double,double,double,double):double distance = 3986 * (Math.acos(Math.sin(degree_x1) * Math.sin(degree_x2) => double distance = 3986 * (Math.acos(Math.sin(degree_x1) % Math.sin(degree_x2)
+AORB_9:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => - Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2)));
+AORB_10:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => * Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2)));
+AORB_11:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => / Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2)));
+AORB_12:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => % Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2)));
+AORB_13:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => + Math.cos(degree_x1) + Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2)));
+AORB_14:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => + Math.cos(degree_x1) - Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2)));
+AORB_15:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => + Math.cos(degree_x1) / Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2)));
+AORB_16:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => + Math.cos(degree_x1) % Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2)));
+AORB_17:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => + Math.cos(degree_x1) * Math.cos(degree_x2) + Math.cos(degree_y1 - degree_y2)));
+AORB_18:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => + Math.cos(degree_x1) * Math.cos(degree_x2) - Math.cos(degree_y1 - degree_y2)));
+AORB_19:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => + Math.cos(degree_x1) * Math.cos(degree_x2) / Math.cos(degree_y1 - degree_y2)));
+AORB_20:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => + Math.cos(degree_x1) * Math.cos(degree_x2) % Math.cos(degree_y1 - degree_y2)));
+AORB_21:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => + Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 + degree_y2)));
+AORB_22:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => + Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 * degree_y2)));
+AORB_23:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => + Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 / degree_y2)));
+AORB_24:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => + Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 % degree_y2)));
+AOIU_1:23:double_distance(double,double,double,double):double degree_x1 = Math.toRadians(x1); => double degree_x1 = Math.toRadians(-x1);
+AOIU_2:24:double_distance(double,double,double,double):double degree_y1 = Math.toRadians(y1); => double degree_y1 = Math.toRadians(-y1);
+AOIU_3:25:double_distance(double,double,double,double):double degree_x2 = Math.toRadians(x2); => double degree_x2 = Math.toRadians(-x2);
+AOIU_4:26:double_distance(double,double,double,double):double degree_y2 = Math.toRadians(y2); => double degree_y2 = Math.toRadians(-y2);
+AOIU_5:28:double_distance(double,double,double,double):double distance = 3986 * (Math.acos(Math.sin(degree_x1) * Math.sin(degree_x2) => double distance = 3986 * (Math.acos(Math.sin(-degree_x1) * Math.sin(degree_x2)
+AOIU_6:28:double_distance(double,double,double,double):double distance = 3986 * (Math.acos(Math.sin(degree_x1) * Math.sin(degree_x2) => double distance = 3986 * (Math.acos(Math.sin(degree_x1) * Math.sin(-degree_x2)
+AOIU_7:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => + Math.cos(-degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2)));
+AOIU_8:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => + Math.cos(degree_x1) * Math.cos(-degree_x2) * Math.cos(degree_y1 - degree_y2)));
+AOIU_9:29:double_distance(double,double,double,double):+ Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(degree_y1 - degree_y2))); => + Math.cos(degree_x1) * Math.cos(degree_x2) * Math.cos(-degree_y1 - degree_y2)));
+
