@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AOIU_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AOIU_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AOIU_3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AOIU_4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AOIU_5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AOIU_6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AOIU_7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AOIU_8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AOIU_9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_17" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_18" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_19" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_20" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_21" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_22" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_23" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_24" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/AORB_9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_17" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_18" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_19" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_20" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_21" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_22" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_23" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_24" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_25" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_26" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_27" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_28" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_29" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_30" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_31" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_32" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_33" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_34" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_35" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_36" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_37" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_38" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_39" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_40" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_41" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_42" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_43" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_44" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/double_distance(double,double,double,double)/COR_9" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
